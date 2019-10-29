@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.japo.java;
+package org.japo.java.main;
 
 import java.util.Locale;
 import java.util.Scanner;
